@@ -21,5 +21,4 @@ This repository belongs to a cybersecurity enthusiast focused on learning, deplo
 - GitHub
 - NOAWO Mindset
 
-> This is only the beginning...# NOAWO-vpn
-  Secure, smart, and censorship-resistant internet access
+> This is only the beginning...
